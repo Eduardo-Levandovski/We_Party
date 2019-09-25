@@ -1,2 +1,2 @@
 # We_Party
-Trabalho de Engenharia de Software
+Projeto da disciplina de engenharia de software
