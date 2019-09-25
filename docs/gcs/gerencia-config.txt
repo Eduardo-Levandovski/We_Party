@@ -1,2 +1,4 @@
-# version 1.0 (create) (create by eduardo levandovski)
-#version 1.1 (create in dev)
+# version 1.0 (create) (altered in dev by eduardo levandovski)
+# version 1.1 ( create file ) ( altered in master by Miqueias )
+# version 1.2 ( create in master ) 
+
